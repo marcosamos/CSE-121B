@@ -16,7 +16,7 @@ document.querySelector("#year").innerHTML = year
 
 // Step 5: declare and instantiate a variable to hold the name of your picture
 
-const myImage = "/Prove-task/images/header_img.jpg";
+const myImage = "../images/header_img.png";
 // Step 6: copy your image into the "images" folder
 
 // Step 7: place the value of the picture variable into the HTML file (hint: document.querySelector().setAttribute())
